@@ -16,5 +16,9 @@ spec:
       - name: nodejs-app
         image: abhi5hekanand/nodejs-app:latest
         ports:
+<<<<<<< HEAD
         - containerPort: 3000
 
+=======
+        - containerPort: 80
+>>>>>>> 5b6b5b187141f27fa112dd09836e072374df6597
