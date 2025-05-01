@@ -1,12 +1,5 @@
-{
-  "name": "nodejs-app",
-  "version": "1.0.0",
-  "description": "Simple Node.js app for Docker and Kubernetes",
-  "main": "app.js",
-  "scripts": {
-    "start": "node app.js",
-    "test": "echo \"No tests yet\" && exit 0"
-  },
-  "author": "Your Name",
-  "license": "ISC"
+"scripts": {
+  "start": "node index.js",
+  "test": "node test.js"
 }
+
